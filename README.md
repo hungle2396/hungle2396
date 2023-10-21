@@ -4,7 +4,7 @@
 
 Hi, I'm Hung. A fullstack developer who passionate and excited about creating website and applications that make positive impacts to people life. Skilled in JavaScript, TypeScript, HTML, CSS/Sass, React.js, and Express.js. Experienced in database management using MySQL and Sequelize. Collaborative, detail-oriented, and constantly expanding knowledge in software engineering.
 
-:mailbox: Here are my contacts :D
+:mailbox: Contact me here!
 
 <p align="left">
 	<a href="https://hungle.vercel.app/" target="blank">
