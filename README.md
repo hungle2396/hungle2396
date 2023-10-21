@@ -21,7 +21,7 @@ Hi, I'm Hung. A fullstack developer who passionate and excited about creating we
 ## Projects
 
 <a href="https://github.com/hungle2396/GoodwillCredits">
-	<img align="center" src="images/github_goodwill.png" width="400" height="460" />
+	<img align="left" src="images/github_goodwill.png" width="400" height="460" />
 </a>
 
 <a href="https://github.com/hungle2396/Happy-Paws">
